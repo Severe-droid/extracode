@@ -1,1 +1,7 @@
-this is a new reflectiontxt file
+  # Steps
+  1. Crack eggs into a bowl.
+  2. Whisk eggs until well combined.
+  3. Add butter to pan and melt over medium heat.
+  4. Add eggs to pan and cook, stirring constantly, until eggs are set but still soft, about 2 minutes.
+  5. Season with salt and pepper to taste.
+  6. Serve immediately.
